@@ -1,0 +1,15 @@
+#root {
+  max-width: 1600px;
+  margin: 0;
+  padding: 0rem;
+
+}
+
+.btn {
+  background-color: red;
+  margin: 15px 0px;
+}
+
+body {
+  background-color: #202020;
+}
